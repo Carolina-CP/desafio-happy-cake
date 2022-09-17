@@ -3,7 +3,7 @@ import App from '../App.css'
 
 const Contacto = () => {
     return (
-        <div className='container m-5 w-100'>
+        <div className='container text-center ml-5 mt-5'>
                 <form className="form-group">
                     <div className=" mt-4">
                         <label className=" mb-2">Correo</label>

@@ -6,8 +6,8 @@ import App from '../App.css'
 function Navegador() {
   return (
     <div>
-      <nav class="navbar navbar-expand-lg text-white">
-        <div class="container-fluid">
+      <nav class="navbar navbar-expand-lg text-white ">
+        <div class="container-fluid mx-5">
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
